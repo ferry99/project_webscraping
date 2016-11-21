@@ -1,0 +1,25 @@
+colgroup col.success {
+  background-color: #dff0d8;
+}
+colgroup col.error{
+  background-color: #f2dede;
+}
+colgroup col.warning {
+  background-color: #fcf8e3;
+}
+colgroup col.info {
+  background-color: #d9edf7;
+}
+
+
+
+.table{
+    max-width: none;
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+
+td , th , thead{
+   text-align: center;   
+   vertical-align: top;
+}
